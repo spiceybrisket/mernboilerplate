@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "spiceybrisket",
+    "DB_PASSWORD": "EblkuWxp0012",
+    "DB_NAME": "mern_boilerPlate"
+  }
+}
